@@ -106,4 +106,7 @@
   .text-container {
     text-align: justify;
   }
+  .box{
+    justify-content: center;
+  }
 }
