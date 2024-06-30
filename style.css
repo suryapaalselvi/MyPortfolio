@@ -440,12 +440,64 @@ footer {
 footer p {
   text-align: center;
 }
+#about1{
+  /* height: auto; */
+}
+.about-pic1{
+  width: auto;
+  height: 275px;
+  border-radius: 20px;
+}
+
+
+
+#all-skills-box{
+  margin: 50px;
+  /* height: 100vh; */
+  
+  /* background-color: antiquewhite; */
+}
+.all-skills-box{
+  position: relative;
+ display: flex;
+ flex-wrap: wrap;
+ gap: 20px;
+ justify-content: center;
+ align-items: center;
+
+ }
+
+ .all-skills-box .all-box{
+  display: flex;
+  width: 200px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  
+ }
+ .all-box:hover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+ }
+
+
+
+
+
+
 #skill{
   height: 100vh;
+
 }
 
 .progress-bar {
-  width: 50%;
+  width:400px;
   height: 20px;
   background-color: #f0f0f0;
   border-radius: 10px;
@@ -469,13 +521,18 @@ footer p {
 .skill-col>h2>img{
   width: 40px;
   height: 40px;
+  /* display: none; */
 }
 .skill-col{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 10px;
+  /* justify-content: center; */
   padding-left: 40px;
+  
 }
+
 .skill-ls>h2>img{
   width: 80px;
   height: 80px;
@@ -490,7 +547,10 @@ footer p {
   justify-content: center;
   position: relative;
   cursor: pointer;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
 
 }
 

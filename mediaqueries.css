@@ -93,10 +93,11 @@
     height: 46vw;
     justify-content: center;
   }
-  .imgfive{
-  width: auto;
-  height: 46vw;
-  justify-content: center;}
+  .about-pic1{
+    width: auto;
+    height: 200px;
+
+  }
   .section__text__p2 {
     font-size: 1.25rem;
   }
@@ -107,6 +108,11 @@
     text-align: justify;
   }
   .box{
+    justify-content: center;
+  }
+  .all-skills-box .all-box{
+    width: 110px;
+    height: 110px;
     justify-content: center;
   }
 }
