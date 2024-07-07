@@ -1,0 +1,99 @@
+i have planned to make website there i showcase my skills how i learned path way
+this is my script please make change you neatly and short 
+when i complete my 12th after i confused which i choose college or what? then my relative said there have coimbatore texmo industries run texmo academy the course is mechatronics swiss vocational diploma 
+here after my first google search what is mechatronics there displaying more but i looking robots photos 
+i suddently surpricesd because at my 6th std to 9th std i working with build robot mindset yeah here i remember my childhood memory that time i collect pappers and crushing and glue with making blocks and that block inside i placing motors and battery with run the motor  and the head was rotating 360 deg with speed ha ha ha.. now i feel shy but that time that is my best day ever because my friends don't know operting motors with battery  i know la best 
+yes another  insident is some one defently ask What are you going to become? that time i said i become a scientist because robots that time my mind set robot making is scientist so simple 
+okay now i joining collecge after i learned more and i loved to learning and learning experience there i learned more and more 
+and i met my principal sir mr.kamesh sundaram he is my principal he is very social and very very knowledged person and he was trained our batch students so well beacuse the way of teaching like Abdul kalam how mat that sir the way of explanation is helps abdul kalam life same my sir mr.kamesh sundaram the way he tells how works how to calculate how to do things like all 
+then one day organised one competition separating teams and he tells build a ice cream stick with build bridge who bridge is very strong and load weight more that team is win so we working all making bridge surpizly my team won the price here the team leader is me this is my first college prize  the prize is chocklates why the chocklates he giving because there also he telling good things don't anyone is poor all good so he giving chocklates and there i distribute and shares with my friends and all celebrate the winning and that day is our explanation skills evolved  we explaining how we making this bridge and last thing our principal sir teaching load analysis same more he doing 
+and i remember sheet metal pending class he teaching and there teaching calculation here only i understand i loved maths the way of teaching he 
+then more incidents happened conventional milling turning filling fitting and professional methods with all practical welding like all
+the another important saftey measures and allowed to take one machine each team all voluntary's making machine saftey equipments covers coolent collectors like more that why our confident level was increased everthing i we made every thing is nothing impossible all we making like
+here entering my electronics projects sir said one day here who knows soldering that time i all are silent so he teaching soldering and i was participate with sir project led cube i don't know what he do but i working with that's happy for me then i soldering all led's and leds soldering template plate building and drilling like participate more students that project inside 
+this part is my best part for my skill level you know robotics is my love
+so he indroduced Arduino board then he board wih glowing led cube i shock first time i saw 
+here my confident level is increase hey finally we close robotics that time 
+then i learned from youtube what is arduino ? how works ? how to  program? like all
+and i learned electronics also and learned pnumatics electro pnuematics siemens plc 
+that he was indroduced 3d printing that time i exited to work with 3d print so he teaching solidworks and then we work with 3d printers best part my life 
+then my sir collecting funds to they friends and giving raspberry pi and class conducting and bad luck learning time corona is coming stopped learnings then class incomplete and i have chance to get my company texmo industries inside raspberry pi projects then i learned from youtube and improving my programming skills and electrical and electronics and iot and iiot all i learned and excuting in our company inside there i have developing more projects here i thank to my superviser mr.vishnu prabu sir 
+projects 
+1.python tkinter with build diesel reading entry and maintained data with excel 
+2.python flask with build checklist data entry 
+3.python flask with read machine's condition project called condition based monitoring dashborad like  (IIOT- industrial 4.0 Based) plc data get with python and store database 
+4.Time based monitoring web application python flask (IIOT- industrial 4.0 Based) plc data get with python and store database 
+5.Diesel Consumption data logging automation (IOT) raspberry pi rfid with include 
+6.energy monitoring systems raspberry pi plc and hmi , and mfm meters with
+7.Lighting Contol time based on off raspberry pi
+8.home automation project inside our industriy
+9.store barcode sytem with maintaining stores spare and auto alert qty low dashboard website
+10.machines control panel wiring and plc wiring 
+11. slot papper inserting machine prototype mechanical,electrical,electronics, codings
+12.builded modbus web app this helps with read rs485 rtu,tcp methods 
+13.water level controller iot 
+14.pump house water flowing indicators logic based 
+15.MTTR Reduced based building machine learning based breakdown assistent web app teach and telling 
+
+
+
+
+My Journey to Mechatronics
+Choosing a Path
+
+After finishing high school, I was unsure about my next step. A relative suggested the Mechatronics Swiss Vocational Diploma program at Texmo Academy in Coimbatore.
+
+A Spark of Inspiration
+
+Intrigued, I searched "mechatronics" online. While the images mostly showed robots, it resonated with my childhood passion for building robots. Back in 6th grade, I used recycled materials like paper and motors to create a robot with a 360-degree rotating head. It may sound simple now, but it fueled my desire to become a scientist - someone who could build amazing things.
+
+Learning and Growing
+
+Joining Texmo Academy solidified my love for learning. My principal, Mr. Kamesh Sundaram, had a unique teaching style, akin to Dr. Abdul Kalam's. He explained complex concepts with clarity and encouraged practical application.
+
+One memorable project involved building a bridge from ice cream sticks. My team, led by me, won the competition! This experience not only honed our engineering skills but also boosted our teamwork and communication abilities.
+
+Mr. Sundaram's dedication extended beyond academics. He instilled valuable life lessons, like appreciating the value of teamwork and sharing success.
+
+Developing My Skills
+
+The program offered a comprehensive curriculum, including:
+
+Machining: Conventional milling, turning, fitting, and welding.
+Safety: Importance and practices of safe machine operation.
+Electronics: Soldering, understanding components, and working with projects like LED cubes.
+Robotics: Introduction to Arduino boards and basic programming.
+Pneumatics and Electro-pneumatics: Understanding and utilizing pneumatic systems.
+Siemens PLC: Programmable Logic Controllers and their applications.
+3D Printing: Learning Solidworks software and practical 3D printing experience.
+Independent Learning and Growth
+
+Unfortunately, the pandemic disrupted our final semester. However, I leveraged online resources like YouTube to enhance my knowledge in:
+
+Programming: Python (including libraries like Tkinter and Flask), Arduino programming.
+Industrial Automation: PLC data acquisition and integration, Industrial Internet of Things (IIoT).
+Industry Experience
+
+Texmo Industries (11/11/2021 - Present)
+
+I joined Texmo Industries as an Electrical and Mechanical Maintenance Technician, working in the foundry and coreshop. My responsibilities included:
+
+Maintaining and troubleshooting electrical and mechanical equipment.
+Performing preventive maintenance tasks to ensure smooth operation.
+Identifying and resolving equipment malfunctions promptly.
+Through dedication and a strong work ethic, I received two promotions within a year, recognizing my contributions and advancing my skillset.  Currently, I hold the position of Senior Technician, leading maintenance efforts and overseeing junior technicians.
+
+This experience has been invaluable in providing practical application to my theoretical knowledge and solidifying my expertise in mechatronics.
+
+Applying My Skills at Texmo Industries
+
+Texmo Industries offered me an opportunity to apply my learnings in real-world projects. These included:
+
+Data Logging and Monitoring: Developed Python applications for tasks like diesel consumption monitoring, machine condition monitoring (IIoT), and time-based monitoring.
+Web Applications: Built web dashboards to display and manage various functionalities.
+Industrial Automation: Integrated Raspberry Pi with PLCs, HMIs, and sensors for functionalities like energy monitoring, lighting control, and even home automation within the industrial setting.
+Inventory Management: Implemented a barcode system and a web application to streamline spare parts management.
+Machine Control and Communication: Designed control panels and Modbus web applications for various communication protocols used in machine control.
+Looking Ahead
+
+I'm constantly learning and evolving, driven by my passion for mechatronics. This website showcases the skills I've acquired and my commitment to continuous improvement. Thank you for visiting!
