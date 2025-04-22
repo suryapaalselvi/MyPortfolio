@@ -16,7 +16,7 @@
           <li><a href="#about">About</a></li>
           <li><a href="#all-skills-box">Skills</a></li>
           <li><a href="#timeline">Journey</a></li>
-          <li><a href="#projects">Projects</a></li>
+          <li><a href="#projects-sec">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
@@ -32,14 +32,14 @@
         <div class="menu-links">
           <li><a href="#about" onclick="toggleMenu()">About</a></li>
           <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
-          <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+          <li><a href="#projects-sec" onclick="toggleMenu()">Projects</a></li>
           <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
         </div>
       </div>
     </nav>
     <div id="profile">
       <div class="section__pic-container">
-        <img src="./assets/profile-pic.png" alt="John Doe profile picture" />
+        <img src="./assets/profile-pic.png" alt="profile picture" />
       </div>
       <div class="section__text">
         <p class="section__text__p1">Hello, I'm</p>
@@ -48,7 +48,7 @@
         <div class="btn-container">
           <button
             class="btn btn-color-2"
-            onclick="window.open('./assets/resume-example.pdf')"
+            onclick="window.open('./assets/resume.pdf')"
           >
             Download CV
           </button>
@@ -61,14 +61,27 @@
             src="./assets/linkedin.png"
             alt="My LinkedIn profile"
             class="icon"
-            onclick="location.href='https://linkedin.com/'"
+            onclick="location.href='https://www.linkedin.com/in/surya-s-0b3362143/'"
           />
           <img
             src="./assets/github.png"
             alt="My Github profile"
             class="icon"
-            onclick="location.href='https://github.com/'"
+            onclick="location.href='https://github.com/suryapaalselvi'"
           />
+          <img
+          src="./assets/link.png"
+          alt="My Github profile"
+          class="icon"
+          onclick="location.href='https://www.linkedin.com/posts/texmoindustries_taropumps-texmoindustries-taroforlife-activity-7200677338236211201-AYPT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLCCAcBLeuz_Mzfuyuy1nHDUT8gNeoLr6o'"
+        />
+        
+          <img
+          src="./assets/link.png"
+          alt="My Github profile"
+          class="icon"
+          onclick="location.href='https://texmoacademy.com/life-at-the-academy/'"
+        />
         </div>
       </div>
     </div>
@@ -117,12 +130,18 @@
       </div>
 <br><br>
     </div>
+
     <div id="all-skills-box">
+      
+      <p class="section__text__p1">I Proud to Display My</p>
+      <h1 class="title">Skills</h1>
+
       <h2 style="justify-content: center;padding: 20px;">Design & Prototype</h2>
       <div class="all-skills-box">
+
         <div class="all-box">3D Printing</div>
         <div class="all-box">Solidworks</div>
-        <div class="all-box">Autocad</div>
+        <!-- <div class="all-box">Autocad</div> -->
       </div>
       <h2 style="justify-content: center;padding: 20px;">Microcontrollers and Embedded Systems</h2>
       <div class="all-skills-box">
@@ -157,109 +176,229 @@
         <div class="all-box">Delta HMI (DOPSoft)</div>
         <div class="all-box">AB HMI (FactoryTalk view)</div>
       </div>
-    </div>
-    <div id="timeline">
-      <div class="container-ti left">
-        <div class="content-ti">
-          <h2>Choosing a Path <img src="./assets/path.png" alt=""></h2>
-          <p>After finishing high school, I was unsure about my next step. A relative suggested the Mechatronics Swiss Vocational Diploma program at Texmo Academy in Coimbatore.</p>
-        </div>
-      </div>
-      <div class="container-ti right">
-        <div class="content-ti">
-          <h2><img src="./assets/disruption.png" alt=""> A Spark of Inspiration </h2>
-          <p>Intrigued, I searched "mechatronics" online. While the images mostly showed robots, it resonated with my childhood passion for building robots. Back in 6th grade, I used recycled materials like paper and motors to create a robot with a 360-degree rotating head. It may sound simple now, but it fueled my desire to become a scientist - someone who could build amazing things.</p>
-        </div>
-      </div>
-      <div class="container-ti left">
-        <div class="content-ti">
-          <h2>Learning and Growing <img src="./assets/progress.png" alt=""></h2>
-          <p>Joining Texmo Academy solidified my love for learning. My principal, Mr. Kamesh Sundaram, had a unique teaching style, akin to Dr. Abdul Kalam's. He explained complex concepts with clarity and encouraged practical application.</p>
-          <p>One memorable project involved building a bridge from ice cream sticks. My team, led by me, won the competition! This experience not only honed our engineering skills but also boosted our teamwork and communication abilities.</p>
-          <p>Mr. Sundaram's dedication extended beyond academics. He instilled valuable life lessons, like appreciating the value of teamwork and sharing success.</p>
-        </div>
-      </div>
-      <div class="container-ti right">
-        <div class="content-ti">
-          <h2><img src="./assets/requirements.png" alt=""> Developing My Skills </h2>
-          <p>The program offered a comprehensive curriculum, including:</p>
-          <ul>
-            <li>Machining: Conventional milling, turning, fitting, and welding.</li>
-            <li>Safety: Importance and practices of safe machine operation.</li>
-            <li>Electronics: Soldering, understanding components, and working with projects like LED cubes.</li>
-            <li>Robotics: Introduction to Arduino boards and basic programming.</li>
-            <li>Pneumatics and Electro-pneumatics: Understanding and utilizing pneumatic systems.</li>
-            <li>Siemens PLC: Programmable Logic Controllers and their applications.</li>
-            <li>3D Printing: Learning Solidworks software and practical 3D printing experience.</li>
-          </ul>
-        </div>
-      </div>
-      <div class="container-ti left">
-        <div class="content-ti">
-          <h2>Independent Learning and Growth <img src="./assets/business-growth.png" alt=""></h2>
-          <p>Unfortunately, the pandemic disrupted our final semester. However, I leveraged online resources like YouTube to enhance my knowledge in:</p>
-          <ul>
-            <li>Programming: Python (including libraries like Tkinter and Flask), Arduino programming.</li>
-            <li>Industrial Automation: PLC data acquisition and integration, Industrial Internet of Things (IIoT).</li>
-          </ul>
-        </div>
-      </div>
-      <div class="container-ti right">
-        <div class="content-ti">
-          <h2><img src="./assets/maintenance.png" alt=""> Industry Experience </h2>
-          <p>Texmo Industries (11/11/2021 - Present)</p>
-          <p>I joined Texmo Industries as an Electrical and Mechanical Maintenance Technician, working in the foundry and coreshop. My responsibilities included:</p>
-          <ul>
-            <li>Maintaining and troubleshooting electrical and mechanical equipment.</li>
-            <li>Performing preventive maintenance tasks to ensure smooth operation.</li>
-            <li>Identifying and resolving equipment malfunctions promptly.</li>
-          </ul>
-          <p>Through dedication and a strong work ethic, I received two promotions within a year, recognizing my contributions and advancing my skillset. Currently, I hold the position of Senior Technician, leading maintenance efforts and overseeing junior technicians.</p>
-          <p>This experience has been invaluable in providing practical application to my theoretical knowledge and solidifying my expertise in mechatronics.</p>
-        </div>
-      </div>
-      <div class="container-ti left">
-        <div class="content-ti">
-          <h2>Applying My Skills at Texmo Industries <img src="./assets/industry-40.png" alt=""></h2>
-          <p>Texmo Industries offered me an opportunity to apply my learnings in real-world projects. These included:</p>
-          <ul>
-            <li>Data Logging and Monitoring: Developed Python applications for tasks like diesel consumption monitoring, machine condition monitoring (IIoT), and time-based monitoring.</li>
-            <li>Web Applications: Built web dashboards to display and manage various functionalities.</li>
-            <li>Industrial Automation: Integrated Raspberry Pi with PLCs, HMIs, and sensors for functionalities like energy monitoring, lighting control, and even home automation within the industrial setting.</li>
-            <li>Inventory Management: Implemented a barcode system and a web application to streamline spare parts management.</li>
-            <li>Machine Control and Communication: Designed control panels and Modbus web applications for various communication protocols used in machine control.</li>
-          </ul>
-        </div>
+      <h2 style="justify-content: center;padding: 20px;">Others</h2>
+      <div class="all-skills-box">
+        <div class="all-box">Pneumatics</div>
+        <div class="all-box">Microsoft Excel</div>
+        <div class="all-box">Assembly Technology</div>
+        <!-- <div class="all-box">AB HMI (FactoryTalk view)</div> -->
       </div>
     </div>
+<div id="projects-sec">
+  <p class="section__text__p1">I Proud to Display My</p>
+  <h1 class="title">Projects </h1>
+  <p class="section__text__p1">I Have Done 20+ Projects Here i Displaying Example Projects</p>
+
+    <div class="project-container">
+    <div class="image-section">
+      <img src="./assets/FishFeeder.jpg" alt="Fish Food Feeder" class="image-box">
+
+      <!-- <div class="image-box"></div> -->
+      <div class="number-tag">#1</div>
+  </div>
+  <div class="content-section">
+    <h2>Fish Food Feeder</h2>
+    <img
+    src="./assets/link.png"
+    alt="My Github profile"
+    class="icon"
+    style="width: 50px;height: 50px;"
+    onclick="location.href='https://www.linkedin.com/posts/surya-s-0b3362143_fishfeeder-3dprinting-solidworks-activity-7317960689921269760-CK_0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLCCAcBLeuz_Mzfuyuy1nHDUT8gNeoLr6o'"
+  />
+    <ul>
+      <li>Automated fish feeding system</li>
+      <li>Designed using ESP32 and 3D printing</li>
+      <li>Customizable feeding schedule</li>
+    </ul>
+  </div>
+
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/FurnaceMonitoring.png" alt="Furnace Monitoring" class="image-box">
+    <div class="number-tag">#1</div>
+  </div>
+  <div class="content-section">
   
+    <h2>Furnace Units Monitoring Dashboard</h2>
+    <ul>
+      <li>Real-time monitoring of furnace units</li>
+      <li>Data collection from PLCs, energy meters, and HMI via TCP/IP</li>
+      <li>Centralized data storage and processing</li>
+      <li>Web-based dashboard for live insights</li>
+    </ul>
+  </div>
+</div>
 
-    <div id="about1">
-      <br>
-      <p class="section__text__p1">Explore My</p>
-      <h1 class="title">Experience</h1>
-      <div class="section-container1">
-        <div class="imgfive">
-          <img
-            src="./assets/5s.jpeg"
-            alt="Profile picture"
-           
-           class="about-pic1"
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/FurnacePerTon.png" alt="Furnace Per Ton Monitoring" class="image-box">
+    <div class="number-tag">#2</div>
+  </div>
+  <div class="content-section">
+    <h2>Furnace Units Per Ton Monitoring</h2>
+    <ul>
+      <li>Tracks metal ton data per shift</li>
+      <li>Data entry application for accurate record-keeping</li>
+      <li>Automated unit per ton (UPT) calculations</li>
+      <li>Email notifications with shift-wise reports</li>
+    </ul>
+  </div>
+</div>
 
-          />
-        </div>
-          <div class="text-container">
-            <p style="text-align: center;color: black; font-size: 20px;"><strong>National Conclave QCFI 5S (June 15, 2024)</strong></p> <br>
-<br>
-<sapn style="color: black;font-size: 20px; font-weight:bold;">Our Team Awarded </span> <br>
-              <p style="font-size: 20px;font-weight:bold;color: rgb(85, 85, 85);">Presented on <span style="color: black; font-weight:bold;">Improved 5S for Electrical & Mechanical Maintenance Stores"</span> </p>
-                <p style="font-size: 20px;font-weight:bold;color: rgb(85, 85, 85);">Led team in implementing a 5S system with an easy tracking system <span style="color: black; font-weight:bold;">Bar-Code System</span>, resulting in a significant reduction in retrieval times - electrical components from 26 minutes to 8 minutes, and mechanical components from 30 minutes to 10 minutes.<p>
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/CBM.png" alt="Condition-Based Monitoring" class="image-box">
+    <div class="number-tag">#3</div>
+  </div>
+  <div class="content-section">
+    <h2>CBM (Condition-Based Monitoring)</h2>
+    <ul>
+      <li>Real-time machine condition monitoring</li>
+      <li>Predictive maintenance alerts</li>
+      <li>Web-based dashboard for insights</li>
+    </ul>
+  </div>
+</div>
 
-          </div>
-      </div>
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/TimeBasedMaintenance.png" alt="Time-Based Maintenance" class="image-box">
+    <div class="number-tag">#4</div>
+  </div>
+  <div class="content-section">
+    <h2>Time-Based Maintenance</h2>
+    <ul>
+      <li>Schedules maintenance tasks based on time intervals</li>
+      <li>Tracks machine servicing history</li>
+      <li>Sends timely alerts for maintenance activities</li>
+    </ul>
+  </div>
+</div>
 
-    </div>
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/OEE.png" alt="OEE Data Processing" class="image-box">
+    <div class="number-tag">#5</div>
+  </div>
+  <div class="content-section">
+    <h2>OEE Data Processing and Reporting</h2>
+    <ul>
+      <li>Tracks and analyzes OEE metrics</li>
+      <li>Automates data collection from machines</li>
+      <li>Generates insightful efficiency reports</li>
+    </ul>
+  </div>
+</div>
 
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/EMS.png" alt="Energy Monitoring System" class="image-box">
+    <div class="number-tag">#6</div>
+  </div>
+  <div class="content-section">
+    <h2>EMS (Energy Monitoring System)</h2>
+    <ul>
+      <li>Monitors energy consumption across the plant</li>
+      <li>Provides analytics and optimization insights</li>
+      <li>Real-time data acquisition from energy meters</li>
+    </ul>
+  </div>
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/PIRControl.png" alt="PIR Lights Control" class="image-box">
+    <div class="number-tag">#7</div>
+  </div>
+  <div class="content-section">
+    <h2>PIR-Based Lights Control</h2>
+    <ul>
+      <li>Motion-activated lighting system</li>
+      <li>Reduces energy consumption</li>
+      <li>Uses PIR sensors for smart lighting</li>
+    </ul>
+  </div>
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/RFIDDoor.png" alt="RFID Door Lock System" class="image-box">
+    <div class="number-tag">#8</div>
+  </div>
+  <div class="content-section">
+    <h2>RFID-Based Door Lock System</h2>
+    <ul>
+      <li>Secure door access using RFID authentication</li>
+      <li>Logs entry data for tracking and security</li>
+      <li>Implemented using Raspberry Pi</li>
+    </ul>
+  </div>
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/WeightScale.png" alt="Weight Scale Auto Dust Dispenser" class="image-box">
+    <div class="number-tag">#9</div>
+  </div>
+  <div class="content-section">
+    <h2>Weight Scale Based Auto Dust Dispenser</h2>
+    <ul>
+      <li>Automates dust removal from collectors</li>
+      <li>Triggers alerts for excessive dust levels</li>
+      <li>Uses weight sensors for precise monitoring</li>
+    </ul>
+  </div>
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/Barcode.png" alt="barcode" class="image-box">
+    <div class="number-tag">#10</div>
+  </div>
+  <div class="content-section">
+    <h2>Barcode Store Spare Monitoring System</h2>
+    <ul>
+        <li>Real-time stock monitoring</li>
+        <li>Barcode scanning for easy tracking</li>
+        <li>Automated alerts for low stock</li>
+        <li>Breakdown tracking and spare management</li>
+        <li>Seamless integration across 4 branches</li>
+    </ul>
+</div>
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/MusicLed.png" alt="Music Reactive LED Strip" class="image-box">
+    <div class="number-tag">#11</div>
+  </div>
+  <div class="content-section">
+    <h2>Music Reactive LED Strip</h2>
+    <ul>
+      <li>LED strip syncs with music beats</li>
+      <li>Uses ESP32 for real-time audio analysis</li>
+      <li>Customizable light patterns and effects</li>
+    </ul>
+  </div>
+</div>
+
+<div class="project-container">
+  <div class="image-section">
+    <img src="./assets/HomeAutomation.png" alt="Home Automation" class="image-box">
+    <div class="number-tag">#12</div>
+  </div>
+  <div class="content-section">
+    <h2>Home Automation (IoT, ESP32)</h2>
+    <ul>
+      <li>Smart home automation using ESP32</li>
+      <li>Controls lights, fans, and appliances remotely</li>
+      <li>Web or mobile app integration</li>
+    </ul>
+  </div>
+</div>
+</div>
     <script src="script.js"></script>
   </body>
 </html>
